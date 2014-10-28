@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">RiverStages</string>
+    <string name="action_settings">Settings</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="edit_message">Search river cities</string>
+	<string name="button_search">Search</string>
+	<string name="title_activity_display_results">Results</string>
+</resources>
